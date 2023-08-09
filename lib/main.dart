@@ -131,7 +131,7 @@ import 'src/playlist_details.dart';
 // ... such as video uploads, channel information, comments, and other YouTube API functionalities applicable to that channel.
 
 // From https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw , we get the following channel ID thus you can only provide either your personal channel's id or an open source ID like this example.
-// But mostly the id's are hidden by the channel owners and id's are like 'https://www.youtube.com/@TheFlutterWay' thus you cannot extract the channel id because it is hidden behind '@TheFlutterWay'
+// But mostly the id's are hidden by the channel owners and id's are like 'https://www.youtube.com/@TheFlutterWay' thus you cannot extract the channel id because it is hidden behind '@TheFlutterWay'.
 const flutterDevAccountId = 'UCwXdFgeE9KYzlDdR7TG9cMw';
 
 // TODO: Replace with your newly generated YouTube API Key by "https://console.cloud.google.com/apis/credentials?project=flutter-youtube-app-387705"
